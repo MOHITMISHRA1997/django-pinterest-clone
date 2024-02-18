@@ -55,3 +55,5 @@ Then run the project by doing:-
 
 ```bash
 python manage.py runserver
+
+https://github.com/MOHITMISHRA1997/django-pinterest-clone/issues/1#issue-2140994077
