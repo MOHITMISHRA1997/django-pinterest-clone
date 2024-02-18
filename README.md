@@ -15,6 +15,7 @@ A brief description of what this project does and who it's for
  - User can save pins to any Board they want
  - User can delete Pins from Board
  - User can Follow and Unfollow
+ - Update Profile
 
 
 
@@ -59,5 +60,6 @@ python manage.py runserver
 
 ## Screenshots 
 
+Update Profile :-
 ![Screenshot from 2024-02-18 18-23-48](https://github.com/MOHITMISHRA1997/django-pinterest-clone/assets/125533299/62410b9f-f6fb-411e-a6f4-b8ea39a4c36e)
 
