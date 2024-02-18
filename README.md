@@ -63,3 +63,5 @@ python manage.py runserver
 Update Profile :-
 ![Screenshot from 2024-02-18 18-23-48](https://github.com/MOHITMISHRA1997/django-pinterest-clone/assets/125533299/62410b9f-f6fb-411e-a6f4-b8ea39a4c36e)
 
+![Screenshot from 2024-02-18 18-23-31](https://github.com/MOHITMISHRA1997/django-pinterest-clone/assets/125533299/30db880a-9b4f-410d-ad8f-84eceb69d6d3)
+
