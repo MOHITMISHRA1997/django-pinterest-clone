@@ -65,3 +65,4 @@ Update Profile :-
 
 ![Screenshot from 2024-02-18 18-23-31](https://github.com/MOHITMISHRA1997/django-pinterest-clone/assets/125533299/30db880a-9b4f-410d-ad8f-84eceb69d6d3)
 
+![Screenshot from 2024-02-18 18-16-46](https://github.com/MOHITMISHRA1997/django-pinterest-clone/assets/125533299/8e828e5d-c970-4a73-993c-fd18c1216982)
